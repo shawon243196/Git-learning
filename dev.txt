@@ -1,0 +1,2 @@
+hello in dev text file
+bug fix korci 
